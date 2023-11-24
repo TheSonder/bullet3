@@ -3,6 +3,24 @@
 /build3/vs2010
 /build_cmake/
 
+
+src/Bullet3Collision/bin/
+src/Bullet3Collision/obj/
+src/Bullet3Common/bin/
+src/Bullet3Common/obj/
+src/Bullet3Dynamics/bin/
+src/Bullet3Dynamics/obj/
+src/BulletCollision/bin/
+src/BulletCollision/obj/
+src/BulletDynamics/bin/
+src/BulletDynamics/obj/
+src/BulletInverseDynamics/bin/
+src/BulletInverseDynamics/obj/
+src/BulletSoftBody/bin/
+src/BulletSoftBody/obj/
+src/LinearMath/bin/
+src/LinearMath/obj/
+
 *.pyc
 
 # Python
